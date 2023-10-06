@@ -106,7 +106,7 @@ Checkout the files in the new folder ``nodejs/musicSite``
 1.  Finally, in your ``musicSite`` folder create two new files - ``artistUpdate.html`` and ``artistUpdate.js``.  
     Add the code necessary to display an Update Artist webpage like the one below.  
     
-    Use the *Mustache* template engine to render the artist details within a HTML table.
+    <!-- Use the *Mustache* template engine to render the artist details within a HTML table. -->
 
     When an *Update* button is pressed provide the appropriate code to update the artist name.
 
