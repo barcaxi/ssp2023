@@ -1,4 +1,4 @@
-# Web Sraping - Exercise 1 – 
+# Web Sraping - Exercise 1 
 
 1.	Setup and run the simple *Quote Web Scraper* shown in the module slides.
 
