@@ -11,7 +11,7 @@
 
 1.	Setup a new project folder called *samples* with a ``package.json``, and modules ``axios`` and ``cheerio``
 
-1.	Add the code in [sample_paragraphs.js](../code/sample_paragraphs.js) to your *samples* project folder & get in working.
+1.	Add the code in [sample_paragraphs.js](../code/sample_paragraphs.js) to your *samples* project folder & get it working.
 
 
 # Part 3
@@ -20,7 +20,7 @@
    
 2.  Add code to ``sample_paragraphs.js`` to print all ``framework`` class text
   
-4.  Add code to ``sample_paragraphs.js`` to print the <h1> heading text
+4.  Add code to ``sample_paragraphs.js`` to print the ``<h1>`` heading text
 
 5.  Add code to ``sample_paragraphs.js`` to print the 3rd list item text
    
